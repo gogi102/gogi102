@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=print("Hello Github")&fontSize=90)
   
   Junseog Yang (양준석)
   ---------------------
