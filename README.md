@@ -1,7 +1,7 @@
 ### 안녕하세요 👋
 
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text='s%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Junseog Yang's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 
   Junseog Yang (양준석)
