@@ -1,4 +1,4 @@
-### 안녕 👋
+### 안녕하세요 👋
 
 <!--
 **gogi102/gogi102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=My Github&fontSize=90)
   
   Junseog Yang (양준석)
   ---------------------
