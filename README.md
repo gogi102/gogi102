@@ -11,10 +11,10 @@
   ---------------------
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<br/>
-<br/>
-  Information(정보)
+
+ Information(정보)
  ---------------------
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=radical)
 <h1> Experience </h1>
 
