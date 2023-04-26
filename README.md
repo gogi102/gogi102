@@ -2,12 +2,12 @@
 
 <div align="center">
  
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Junseog's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Junseog(양준석)'s%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 <br/>
 <br/>
   
 
-  Junseog Yang (양준석)
+  Information(정보)
   ---------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=radical)
