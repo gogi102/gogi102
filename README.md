@@ -2,11 +2,10 @@
 
 <div align="center">
  
-  ![header](https://capsule-render.vercel.app/api?
-type=cylinder&color=000000&height=150&section=header&text=Junseog's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=&theme=nord)](https://github.com/gogi102/JunseogYang-Studying)
-<br/>
-<br/>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Junseog's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+
+ <br/>
+ <br/>
   
 
   Used language(사용하는 언어)
