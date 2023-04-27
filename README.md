@@ -15,7 +15,7 @@
  Information(정보)
  ---------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogi102&layout=compact)](https://github.com/gogi102/JunseogYang-Java-Python)
   
 <h1> Experience </h1>
