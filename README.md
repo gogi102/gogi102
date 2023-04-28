@@ -8,12 +8,12 @@
  <br/>
   
 
-  Used language(사용하는 언어)
+<h1> Used language(사용하는 언어) </h1>
   ---------------------
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
- Information(정보)
+<h1> Information(정보) </h1>
  ---------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=dark)
