@@ -10,12 +10,12 @@
 <h1> Used language(사용하는 언어) </h1>
  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <h1> Information(정보) </h1>
 
 ![gogi102's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogi102&layout=compact)](https://github.com/gogi102/Phython)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogi102&layout=compact)](https://github.com/gogi102/JunseogYang-Studying)
   
 <h1> Experience(경험) </h1>
   
