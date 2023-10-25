@@ -15,7 +15,7 @@
 <h1> Information(정보) </h1>
 
 ![gogi102's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogi102&layout=compact)](https://github.com/gogi102/JunseogYang-Studying)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogi102&layout=compact)](https://github.com/gogi102/JunseogYang-Studying,Phython)
   
 <h1> Experience(경험) </h1>
   
