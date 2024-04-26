@@ -17,11 +17,5 @@
 ![gogi102's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogi102&layout=compact)](https://github.com/gogi102/JunseogYang-Studying)
   
-<h1> Experience(경험) </h1>
-  
-| What | When | What | When|
-|:--------:|:--------:|:--------:|:--------:|
-|성일정보고등학교 프로그래밍 동아리 | 2023. 03 ~ 현재 | 성일정보고등학교 SSS 알고리즘 | 2023. 04 ~ 2023.12 |
-| 성일정보고등학교 SSS 앱개발 | 2023. 04 ~ 현재 |
 </div>
 <body>
