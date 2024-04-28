@@ -11,7 +11,7 @@
  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-#00ffff?style=for-the-badge&logo=Flutter&logoColor=white">
 
 <h1>Information</h1>
 
